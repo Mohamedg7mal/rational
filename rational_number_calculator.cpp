@@ -7,9 +7,6 @@
 // Purpose : calculate rational number
 */
 
-
-
-
 # include<iostream>
 # include<cmath>
 using namespace std;
